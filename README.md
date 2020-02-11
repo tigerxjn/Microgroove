@@ -1,5 +1,7 @@
 # Microgroove
 
+This is a simple consoleapp project, after cloning the project, run the CreateOrder.cs should be fine after preparing the inputfile and output path should be fine.
+
 The solution basically contains 2 part:
      1.Models
      2.CreateOrder.cs
